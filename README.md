@@ -1,15 +1,15 @@
-# Salam, mən Muhammet 👋
+# Hi, I'm Muhammed 👋
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
 ## I'm a Software Developer
 
-- 🌱 Hazırda Full Stack Development, Backend sistemləri və yeni texnologiyalar öyrənirəm.
-- 💻 Web layihələri, botlar və avtomatlaşdırma sistemləri hazırlayıram.
-- 🚀 Open Source layihələr və developer icmaları ilə maraqlanıram.
-- 🏗 YazılımHub proqramlaşdırma icmasının qurucusuyam.
+- 🌱 Currently learning Full Stack Development, Backend systems, and new technologies.
+- 💻 Building web applications, bots, and automation tools.
+- 🚀 Interested in Open Source projects and developer communities.
+- 🏗 Founder of YazılımHub, a programming community for developers.
 
-## 📫 Əlaqə
+## 📫 Contact Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mamidevss)
 
@@ -29,24 +29,23 @@
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 
----
 
 ## 🚀 Projects
 
 ### YazılımHub
-Proqramlaşdırma öyrənmək, layihələr paylaşmaq və developer-ləri bir araya gətirmək üçün yaradılmış proqramlaşdırma icması.
+A programming community created to help developers learn, share projects, and connect with each other.
 
 🌐 Website: https://yazilimhub.vercel.app
 
 ### Other Projects
-Hazırda müxtəlif proqram təminatı layihələri üzərində işləyirəm.
+Currently working on various software projects and open-source tools.
 
----
+
 
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=mamidevss&show_icons=true&theme=transparent" />
 
----
+
 
 ⭐ Always learning, always building.

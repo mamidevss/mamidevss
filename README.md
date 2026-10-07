@@ -1,4 +1,4 @@
-# Salam, mən Muhammedəm 👋
+# Salam, mən Muhammet 👋
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
